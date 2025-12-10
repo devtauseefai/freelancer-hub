@@ -1,0 +1,12 @@
+baseURL = "https://devtauseefai.github.io/freelancer-hub/"
+languageCode = "en-us"
+title = "Freelancer Hub"
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  description = "Freelancing, productivity & client management insights."
+  author = "Freelancer Hub"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
